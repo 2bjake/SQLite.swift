@@ -115,7 +115,6 @@
 		D3EDDDD1211A258000DC6C08 /* SQLCipher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3EDDDC1211A11E300DC6C08 /* SQLCipher.framework */; };
 		D3EDDDD2211A258500DC6C08 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3EDDDCA211A1DEA00DC6C08 /* Foundation.framework */; };
 		D3EDDDD3211A294000DC6C08 /* sqlite3.h in Headers */ = {isa = PBXBuildFile; fileRef = D3EDDDC4211A1DC400DC6C08 /* sqlite3.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3EDDDD5211A4E2B00DC6C08 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D3EDDDD4211A4E2B00DC6C08 /* Info.plist */; };
 		EE247AD71C3F04ED00AE3E12 /* SQLite.h in Headers */ = {isa = PBXBuildFile; fileRef = EE247AD61C3F04ED00AE3E12 /* SQLite.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EE247ADE1C3F04ED00AE3E12 /* SQLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE247AD31C3F04ED00AE3E12 /* SQLite.framework */; };
 		EE247B031C3F06E900AE3E12 /* Blob.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE247AEE1C3F06E900AE3E12 /* Blob.swift */; };
@@ -837,7 +836,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3EDDDD5211A4E2B00DC6C08 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
